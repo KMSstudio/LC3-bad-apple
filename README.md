@@ -24,3 +24,7 @@ save the list at ./fflop.pickle
 
 * make_asm
 make LC3 assembly data code ./asm.txt from ./fflop.pickle
+
+# code
+the code will run in LC3 simulator.
+This code was tested and run on LC3Tools-2.0.2, made by Richard So.
